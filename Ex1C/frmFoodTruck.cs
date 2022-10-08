@@ -51,6 +51,9 @@ namespace Ex1C
             txtTotal.Text = "";
 
             txtHotDogs.Focus();
+
+            //hi
+
         }
     }
 }
