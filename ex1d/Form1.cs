@@ -69,5 +69,10 @@ namespace ex1d
                 + Convert.ToDecimal(txtUSDJapanese.Text)
                 ).ToString("0.00");
         }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            ///test///
+        }
     }
 }
